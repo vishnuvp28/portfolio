@@ -14,7 +14,9 @@ function WorkCard({pro}) {
       <p>{pro.title}</p>
       <div className="pro-btns">
         <NavLink to={pro.view} className="btn">View</NavLink>
-        <NavLink to={pro.source} className="btn">Source</NavLink>
+        <NavLink to={pro.source} className="btn">Frontend Source</NavLink>
+        <NavLink to={pro.source1} className="btn">Backend Source</NavLink>
+
       </div>
     </div>
   </div>
