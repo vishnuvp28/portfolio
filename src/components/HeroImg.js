@@ -21,6 +21,9 @@ function HeroImg() {
             <Link to="/project" className='btn'>
               PROJECTS
             </Link>
+            <Link to="https://yellow-filide-72.tiiny.site/" className='btn'>
+              RESUME
+            </Link>
             <Link to="/contact" className='btn btn-light'>
               CONTACT
             </Link>
