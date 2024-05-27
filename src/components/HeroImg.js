@@ -21,7 +21,7 @@ function HeroImg() {
             <Link to="/project" className='btn'>
               PROJECTS
             </Link>
-            <Link to="https://yellow-filide-72.tiiny.site/" className='btn'>
+            <Link to="https://drive.google.com/file/d/12cyQxoautZBT277oorNN5zV8tbKuiogS/view" className='btn' target="_blank" rel="noopener noreferrer">
               RESUME
             </Link>
             <Link to="/contact" className='btn btn-light'>
@@ -35,5 +35,3 @@ function HeroImg() {
 
 export default HeroImg
 
-
-//https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80
