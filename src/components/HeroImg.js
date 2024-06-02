@@ -21,7 +21,7 @@ function HeroImg() {
             <Link to="/project" className='btn'>
               PROJECTS
             </Link>
-            <Link to="https://drive.google.com/file/d/12cyQxoautZBT277oorNN5zV8tbKuiogS/view" className='btn' target="_blank" rel="noopener noreferrer">
+            <Link to="https://drive.google.com/file/d/12cyQxoautZBT277oorNN5zV8tbKuiogS/view?usp=sharing" className='btn' target="_blank" rel="noopener noreferrer">
               RESUME
             </Link>
             <Link to="/contact" className='btn btn-light'>
